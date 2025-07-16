@@ -1,1 +1,2 @@
 # Learn.LaTeX
+This guide is designed for absolute beginners who know nothing about LaTeX and takes you to advanced professional levels. It covers everything from basics to advanced tips, including all mathematical symbols, image insertion, and more.
